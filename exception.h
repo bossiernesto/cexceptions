@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <setjmp.h>
+#include 'hashtable.c'
 
 #define _exc_id unsigned int
 
